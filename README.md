@@ -1,4 +1,4 @@
-<img src="https://github.com/jarehec/AirBnB_clone_v3/blob/master/dev/HBTN-hbnb-Final.png" width="160" height=auto />
+<img src="https://github.com/Nicky-muindi/AirBnB_clone_v3/blob/master/dev/HBTN-hbnb-Final.png" width="160" height=auto />
 
 # AirBnB Clone: Phase # 3
 
@@ -34,9 +34,9 @@ HBNB_MYSQL_HOST=localhost HBNB_MYSQL_DB=hbnb_test_db HBNB_TYPE_STORAGE=db \
 
 ## Environment
 
-* __OS:__ Ubuntu 14.04 LTS
-* __language:__ Python 3.4.3
-* __web server:__ nginx/1.4.6
+* __OS:__ Ubuntu 20.04 LTS
+* __language:__ Python 3.9.0
+* __web server:__ nginx/2.50
 * __application server:__ Flask 0.12.2, Jinja2 2.9.6
 * __web server gateway:__ gunicorn (version 19.7.1)
 * __database:__ mysql Ver 14.14 Distrib 5.7.18
@@ -46,7 +46,7 @@ HBNB_MYSQL_HOST=localhost HBNB_MYSQL_DB=hbnb_test_db HBNB_TYPE_STORAGE=db \
   * __web static:__ [W3C Validator](https://validator.w3.org/)
   * __bash:__ ShellCheck 0.3.3
 
-<img src="https://github.com/jarehec/AirBnB_clone_v3/blob/master/dev/hbnb_step5.png" />
+<img src="https://github.com/Nicky-muindi/AirBnB_clone_v3/blob/master/dev/hbnb_step5.png" />
 
 ## Configuration Files
 
@@ -216,7 +216,8 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
 Nicholas M Mwanza <nicholasmuindi25@gmail.com>
-Celestine Akpanoko
+
+Celestine Akpanoko <>
 ## License
 
 none
