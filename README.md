@@ -217,7 +217,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 
 Nicholas M Mwanza <nicholasmuindi25@gmail.com>
 
-Celestine Akpanoko <>
+Celestine Akpanoko <celestineakpanoko@gmail.com>
 ## License
 
 none
