@@ -439,23 +439,5 @@ class TestCountGet(unittest.TestCase):
                     actual += 1
         self.assertTrue(actual == 4)
 
-    def test_get_pace(self):
-        """... checks if get() function returns properly"""
-        duplicate = storage.get('Place', self.p1.id)
-        expected = self.p1.id
-        self.assertEqual(expected, duplicate.id)
-
-    def test_count_amenity(self):
-        """... checks if count() returns proper count with Class input"""
-        count_amenity = storage.count('Amenity')
-        expected = 3
-        self.assertEqual(expected, count_amenity)
-
-    def test_count_all(self):
-        """... checks if count() functions with no class"""
-        count_all = storage.count()
-        expected = 8
-        self.assertEqual(expected, count_all)
-
 if __name__ == '__main__':
     unittest.main
